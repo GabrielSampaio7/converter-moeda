@@ -1,5 +1,7 @@
 # Conversor de Moedas
 
+<img src="./ConverterMoeda.png">
+
 ## Objetivos
 Construa uma aplicação de conversão de moedas. O HTML e CSS são os que você está vendo no browser;
 
