@@ -39,3 +39,6 @@ Para obter as moedas com os valores já convertidos, use a Exchange rate:
     - Para obter a key e fazer requests, você terá que fazer login e escolher
     o plano free. Seus dados de cartão de crédito não serão solicitados.
 
+## Desenvolvimento
+
+O arquivo app_basic.js é o código puro, sem fatoração.
